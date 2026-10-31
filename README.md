@@ -42,7 +42,7 @@
 确保你已激活虚拟环境，然后在项目根目录执行：
 
 bash
-git clone <你的GitHub仓库地址>
+git clone https://github.com/xiaoli0510/weatherAgent.git
 cd weatherAgent
 ```bash
 pip install -r requirements.txt
