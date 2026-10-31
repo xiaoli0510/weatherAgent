@@ -1,0 +1,6 @@
+langchain==1.3.2         # Agent框架
+langchain-openai==1.2.2  # 千问模型OpenAI兼容框架
+python-dotenv==1.0.1     # 环境变量管理
+requests>=2.32.0         # 调用天气 HTTP API
+
+# https://mirrors.aliyun.com/pypi/simple/
